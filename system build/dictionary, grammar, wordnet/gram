@@ -1,0 +1,13 @@
+$produkt = telefon | telewizor | komputer | monitor | odkurzacz;
+
+$co = kupiC | reklamowaC | naprawiC | sprzedaC | oddaC | wymieniC;
+
+$jaki = na_gwarancji | nowy | stary | uZywany | nieuZywany | nieuszkodzony | uszkodzony | bez_gwarancji;
+
+$cena = tani | drogi;
+
+$firma = apple | nokia | sony | samsung | lenovo | acer | philips | zelmer | dell;
+
+
+
+(SENT-START (dzieN_dobry chciaLem $co $jaki $cena  $produkt firmy $firma ) SENT-END)

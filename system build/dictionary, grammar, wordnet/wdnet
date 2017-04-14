@@ -1,0 +1,110 @@
+VERSION=1.0
+N=42   L=66   
+I=0    W=!NULL               
+I=1    W=!NULL               
+I=2    W=SENT-START          
+I=3    W=dzieN_dobry         
+I=4    W=chciaLem            
+I=5    W=kupiC               
+I=6    W=!NULL               
+I=7    W=reklamowaC          
+I=8    W=naprawiC            
+I=9    W=sprzedaC            
+I=10   W=oddaC               
+I=11   W=wymieniC            
+I=12   W=na_gwarancji        
+I=13   W=!NULL               
+I=14   W=nowy                
+I=15   W=stary               
+I=16   W=uZywany             
+I=17   W=nieuZywany          
+I=18   W=nieuszkodzony       
+I=19   W=uszkodzony          
+I=20   W=bez_gwarancji       
+I=21   W=tani                
+I=22   W=!NULL               
+I=23   W=drogi               
+I=24   W=telefon             
+I=25   W=!NULL               
+I=26   W=telewizor           
+I=27   W=komputer            
+I=28   W=monitor             
+I=29   W=odkurzacz           
+I=30   W=firmy               
+I=31   W=apple               
+I=32   W=!NULL               
+I=33   W=nokia               
+I=34   W=sony                
+I=35   W=samsung             
+I=36   W=lenovo              
+I=37   W=acer                
+I=38   W=philips             
+I=39   W=zelmer              
+I=40   W=dell                
+I=41   W=SENT-END            
+J=0     S=41   E=1    
+J=1     S=0    E=2    
+J=2     S=2    E=3    
+J=3     S=3    E=4    
+J=4     S=4    E=5    
+J=5     S=5    E=6    
+J=6     S=7    E=6    
+J=7     S=8    E=6    
+J=8     S=9    E=6    
+J=9     S=10   E=6    
+J=10    S=11   E=6    
+J=11    S=4    E=7    
+J=12    S=4    E=8    
+J=13    S=4    E=9    
+J=14    S=4    E=10   
+J=15    S=4    E=11   
+J=16    S=6    E=12   
+J=17    S=12   E=13   
+J=18    S=14   E=13   
+J=19    S=15   E=13   
+J=20    S=16   E=13   
+J=21    S=17   E=13   
+J=22    S=18   E=13   
+J=23    S=19   E=13   
+J=24    S=20   E=13   
+J=25    S=6    E=14   
+J=26    S=6    E=15   
+J=27    S=6    E=16   
+J=28    S=6    E=17   
+J=29    S=6    E=18   
+J=30    S=6    E=19   
+J=31    S=6    E=20   
+J=32    S=13   E=21   
+J=33    S=21   E=22   
+J=34    S=23   E=22   
+J=35    S=13   E=23   
+J=36    S=22   E=24   
+J=37    S=24   E=25   
+J=38    S=26   E=25   
+J=39    S=27   E=25   
+J=40    S=28   E=25   
+J=41    S=29   E=25   
+J=42    S=22   E=26   
+J=43    S=22   E=27   
+J=44    S=22   E=28   
+J=45    S=22   E=29   
+J=46    S=25   E=30   
+J=47    S=30   E=31   
+J=48    S=31   E=32   
+J=49    S=33   E=32   
+J=50    S=34   E=32   
+J=51    S=35   E=32   
+J=52    S=36   E=32   
+J=53    S=37   E=32   
+J=54    S=38   E=32   
+J=55    S=39   E=32   
+J=56    S=40   E=32   
+J=57    S=30   E=33   
+J=58    S=30   E=34   
+J=59    S=30   E=35   
+J=60    S=30   E=36   
+J=61    S=30   E=37   
+J=62    S=30   E=38   
+J=63    S=30   E=39   
+J=64    S=30   E=40   
+J=65    S=32   E=41   
